@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cord-test/static/css/main.69e3a5da.chunk.css",
+    "main.js": "/cord-test/static/js/main.86492fcb.chunk.js",
+    "main.js.map": "/cord-test/static/js/main.86492fcb.chunk.js.map",
+    "runtime-main.js": "/cord-test/static/js/runtime-main.e9edd24d.js",
+    "runtime-main.js.map": "/cord-test/static/js/runtime-main.e9edd24d.js.map",
+    "static/js/2.453a0ea9.chunk.js": "/cord-test/static/js/2.453a0ea9.chunk.js",
+    "static/js/2.453a0ea9.chunk.js.map": "/cord-test/static/js/2.453a0ea9.chunk.js.map",
+    "index.html": "/cord-test/index.html",
+    "static/css/main.69e3a5da.chunk.css.map": "/cord-test/static/css/main.69e3a5da.chunk.css.map",
+    "static/js/2.453a0ea9.chunk.js.LICENSE.txt": "/cord-test/static/js/2.453a0ea9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9edd24d.js",
+    "static/js/2.453a0ea9.chunk.js",
+    "static/css/main.69e3a5da.chunk.css",
+    "static/js/main.86492fcb.chunk.js"
+  ]
+}
