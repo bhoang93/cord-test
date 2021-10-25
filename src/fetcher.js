@@ -1,6 +1,8 @@
 import axios from "axios";
 
 const baseUrl = `https://api.themoviedb.org/3/`;
+
+//Would add to env file
 const apiKey = `713959414f4e3dfbe46802b6e4a92999`;
 
 // All of your API requests should be in this file
